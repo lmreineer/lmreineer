@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Java project
+- 🔭 I’m currently working on a payroll system using Java
 - 🌱 I’m currently learning Java
 
 <!--
